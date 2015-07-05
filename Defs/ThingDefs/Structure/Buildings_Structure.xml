@@ -70,7 +70,6 @@
         <multiplier>3</multiplier>
       </li>
     </damageMultipliers>
-    <designationHotKey>B</designationHotKey>
   </ThingDef>
 
 </Buildings>
