@@ -2,6 +2,6 @@
 <ModMetaData>
 	<name>Embrasures</name>
 	<author>Skullywag</author>
-	<targetVersion>Alpha 13</targetVersion>
+	<targetVersion>0.14.1234</targetVersion>
 	<description>Adds walls which support roofs and can be fired through.</description>
 </ModMetaData>
