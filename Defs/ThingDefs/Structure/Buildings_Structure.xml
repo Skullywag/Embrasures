@@ -46,7 +46,7 @@
     </blueprintGraphicData>
     <statBases>
       <MaxHitPoints>225</MaxHitPoints>
-      <WorkToMake>150</WorkToMake>
+      <WorkToBuild>150</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
     <costStuffCount>6</costStuffCount>
